@@ -1,5 +1,3 @@
-1. check out this code in a directory
-2. make a sub-directory openwebtext
-   Download openwebtext and unzip to this folder.
-   Download can be found on huggingface or kaggle
-3. Run the code to generate model 01-llm.pkl   
+Train a neural network model using public openwebtext data to generate a large lanague model.
+This codes run successful on both CPU/GPU. Should increase higher iteration when train on GPU.
+If successful, it will generate llm 01-llm.pkl
